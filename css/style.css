@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(4, 208, 140, 0.407);
+    color: rgba(41, 61, 240, 0.964);
+}
+
+main{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+canvas{
+    border: 3px rgb(1, 117, 65) solid;
+}
+
+.color a{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
+
+.aqua{
+    background-color: aqua;
+
+}
+.black{
+    background-color: black;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.white{
+    background-color: white;
+}
